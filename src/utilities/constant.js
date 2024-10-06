@@ -3,4 +3,5 @@ export const SCREENS = {
     Notifications: 'Natifications',
     Profile: 'Profile',
     Settings: 'Settings',
+    Cart: 'Cart',
 }
